@@ -1,2 +1,2 @@
 # phuthanh
-phu k co ngoai su dep trai
+phu k co gi ngoai su dep trai
